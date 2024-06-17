@@ -16,8 +16,8 @@ This repository is organized into the following main directories, each focusing 
     - `src/engagement_analysis.py`: Main script for engagement analysis.
     - `README.md`: Detailed information about this analysis.
 
-- **`customer_clustering/`**: 
-  - **Description**: __(Ongoing)__ Analysis for customer clustering to identify distinct customer segments for targeted marketing strategies.
+- **`customer_clustering/`** __(Ongoing, not released yet)__ : 
+  - **Description**: Analysis for customer clustering to identify distinct customer segments for targeted marketing strategies.
   - **Status**: In progress.
   - **Key Files**:
     - `notebooks/customer_clustering_analysis.ipynb`: Jupyter Notebook with the detailed analysis (to be added).
