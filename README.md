@@ -8,7 +8,7 @@ Welcome to the GA4 Ecommerce Analysis repository! This repository hosts multiple
 
 This repository is organized into the following main directories, each focusing on a specific type of analysis:
 
-- **`engagement_analysis/`**: 
+- **`user_engagement_temporal_analysis/`**: 
   - **Description**: Analysis of user engagement at different times of the day to optimize ad campaigns and content delivery schedules.
   - **Status**: Completed.
   - **Key Files**:
@@ -30,3 +30,16 @@ This repository is organized into the following main directories, each focusing 
     - `utils.py`: Common utilities and helper functions.
    
 ## Contributions are welcome!
+
+GA4_Ecommerce_Analysis/
+├── user_engagement_temporal_analysis/
+│   ├── notebooks/
+│   │   ├── user-engagement-temporal-analysis.ipynb
+│   ├── src/
+│   │   ├── analysis_utils.py
+│   │   ├── engagement_analysis.py
+│   ├── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
+
