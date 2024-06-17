@@ -31,15 +31,3 @@ This repository is organized into the following main directories, each focusing 
    
 ## Contributions are welcome!
 
-GA4_Ecommerce_Analysis/
-├── user_engagement_temporal_analysis/
-│   ├── notebooks/
-│   │   ├── user-engagement-temporal-analysis.ipynb
-│   ├── src/
-│   │   ├── analysis_utils.py
-│   │   ├── engagement_analysis.py
-│   ├── README.md
-├── README.md
-├── requirements.txt
-└── .gitignore
-
